@@ -3,17 +3,17 @@ img{
 	height: 100px;
 }
 #top1{
-	margin-left: 300px;
+	margin-left: 200px;
 	font-family: Arial;
 	font-size: 30px;
-	text-shadow: 4px 4px;
+	text-shadow: 4px 4px 2px;
 	color: orange;
 }
 #top2{
-	margin-left: 300px;
+	margin-left: 200px;
 	font-family: Arial;
 	font-size: 20px;
-	text-shadow: 4px 4px;
+	text-shadow: 4px 4px 2px;
 	color: green;
 }
 #mau1{
@@ -23,8 +23,16 @@ img{
 	text-indent: 20px;
 	padding-top: 5px;
 	padding-bottom: 5px;
+	color: green;
 }
 #canh{
 	text-align: right;
+	color: green;
+}
+#container{
+	margin: 0 auto;
+	width: 50%;
+}
+#top3{
 	color: green;
 }
