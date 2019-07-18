@@ -1,0 +1,28 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+@font-face {
+  font-family: myFirstFont;
+  src: url(OpenSans-ExtraBoldItalic.ttf);
+}
+body{
+	background-color: #ffffcc;
+}
+.demo1{
+	color: orange;
+	font-family: myFirstFont;
+	font-size: 30px;
+	text-shadow: 5px 4px 3px red;/*làm mờ chữ*/
+}
+.content{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-indent: 50px;/*thụt vào đầu dòng*/
+	text-align: justify;/*canh đều hai bên*/
+	text-transform: uppercase;/*in hoa cả đoạn văn*/
+	text-transform: lowercase;/*viết thường cả đoạn văn*/
+	text-decoration: underline;/*gạch chân cả đoạn văn*/
+	text-decoration: line-through;/*gạch ngang chữ*/
+	text-decoration: underline overline;/*vừa gạch trên vừa gạch dưới*/
+}

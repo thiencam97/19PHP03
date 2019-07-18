@@ -1,0 +1,30 @@
+img{
+	float: left;
+	height: 100px;
+}
+#top1{
+	margin-left: 300px;
+	font-family: Arial;
+	font-size: 30px;
+	text-shadow: 4px 4px;
+	color: orange;
+}
+#top2{
+	margin-left: 300px;
+	font-family: Arial;
+	font-size: 20px;
+	text-shadow: 4px 4px;
+	color: green;
+}
+#mau1{
+	color: green;
+}
+#content{
+	text-indent: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#canh{
+	text-align: right;
+	color: green;
+}

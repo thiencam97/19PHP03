@@ -1,0 +1,44 @@
+#header{
+	border:1px solid black;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+	background: yellow;
+}
+#content{
+	border:1px solid black;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+
+}
+#footer{
+	border:1px solid black;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+}
+#logo{
+	width: 30%;
+	float: left;
+	border: 1px solid black;
+}
+#banner{
+	width: 69%;
+	float: left;
+}
+#sibaba{
+	width: 30%;
+	float: left;
+	border: 1px solid black;
+}
+#contest{
+	width: 69%;
+	float: left;
+}
+#menu{
+	border: 1px solid black;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+}

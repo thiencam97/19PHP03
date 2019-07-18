@@ -1,0 +1,30 @@
+#top1{
+	border: 4px dotted black;
+	width: 900px;
+	height: 700px;
+	margin: 20px;
+}
+#top2{
+	border: 2px solid black;
+	width: 700px;
+	height: 500px;
+	margin: 50px;
+	padding: 20px;
+}
+#top3{
+	border: 2px dotted black;
+	width: 600px;
+	height: 200px;
+	text-align: center;
+	line-height: 200px;
+	margin: 20px;
+	font-size: 30px;
+}
+#top4{
+	border: 2px dotted black;
+	width: 600px;
+	height: 200px;
+	text-align: center;
+	line-height: 200px;
+	margin: 20px;
+}

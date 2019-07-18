@@ -1,0 +1,61 @@
+#header{
+	border: 1px solid black;
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+	background: red;
+}
+#body{
+	height: 1000px;
+}
+#left{
+	border: 1px solid black;
+	height: 1000px;
+	width: 20%;
+	text-align: center;
+	line-height: 960px;
+	float: left;
+	background: yellow;
+}
+#content{
+	border: 1px solid black;
+	width: 50%;
+	text-align: center;
+	line-height: 100px;
+	float: left;
+	background: blue;
+}
+#pre{
+	border: 1px solid black;
+	text-align: center;
+	height: 200px;
+	line-height: 200px;
+}
+#boddy{
+	border: 1px solid black;
+	text-align: center;
+	height: 500px;
+	line-height: 500px;
+}
+#post{
+	border: 1px solid black;
+	text-align: center;
+	height: 294px;
+	line-height: 290px;
+}
+#right{
+	border: 1px solid black;
+	height: 1000px;
+	width: 29.6%;
+	text-align: center;
+	line-height: 960px;
+	float: left;
+	background: orange;
+}
+#fotter{
+	border: 1px solid black;
+	height: 100px;
+	text-align: center;
+	line-height: 50px;
+	background: green;
+}

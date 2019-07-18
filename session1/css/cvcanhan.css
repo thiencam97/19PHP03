@@ -1,0 +1,32 @@
+h1{
+	color: red;
+}
+p{
+	font-weight: bold;
+}
+img{
+	width: 300px;
+	float: left;
+}
+
+}
+#top1{
+	font-family: Arial;
+	font-size: 30px;
+	margin-left: 100px;
+	text-shadow: 1px 1px;
+	
+}
+#top2{
+	font-size: 20px;
+	margin-left: 100px;
+	text-shadow: 1px 1px;
+
+}
+#top3{
+	font-family: Arial;
+	font-size: 30px;
+	margin-left: 100px;
+	text-shadow: 1px 1px;
+
+}
