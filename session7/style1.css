@@ -1,0 +1,21 @@
+ul li{
+	list-style-type: none;
+	margin-left: 1.25em;
+	margin-bottom: 1.5em;
+	padding: 20px;
+	height: 40px;
+}
+li{
+	border: 2px solid blue;
+	width: 500px;
+	height: 50px;
+}
+nav{
+	border: 1px solid black;
+	width: 800px;
+	padding: 20px;
+	margin: 20px;
+}
+#top3{
+	background: green;
+}

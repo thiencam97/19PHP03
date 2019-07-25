@@ -1,0 +1,11 @@
+table{
+	border: 1px solid black;
+	width: 600px;
+	border-collapse: collapse;/* dùng riêng cho dòng table cho hết chồng các dòng lên nhau*/
+}
+td,th{
+	border: 1px solid black;
+}
+thead, tfoot{
+	background: #ada;
+}

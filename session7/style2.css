@@ -1,0 +1,19 @@
+ul li{
+	list-style-type: none;
+	border-right: solid;
+	margin-left: .5em;
+	margin-bottom: .5em;
+}
+ul li{
+	float: left;
+	margin-bottom: .5em;
+	border: 1px solid blue;
+}
+ul li a{
+	text-align: center;
+	width: 175px;
+	display: block;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 1em 0;
+}
