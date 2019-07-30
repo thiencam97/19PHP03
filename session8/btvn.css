@@ -1,0 +1,94 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	background-image: linear-gradient(to bottom, #ada, yellow);
+	height: 600px;
+}
+img{
+	float: left;
+	height: 80px;
+	margin-left: 20px;
+}
+.containter {
+	width: 80%;
+	border: 1px solid black;
+	height: 500px;
+	margin: 30px auto;
+	background-color: #fff;
+	border-radius: 30px;
+	box-shadow: 4px 4px 5px gray;
+}
+#header {
+	height: 100px;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+#menu {
+	height: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+	border-top: 2px solid orange;
+	border-bottom: 2px solid orange;
+}
+ul {
+	margin: 10px;
+}
+ul li{
+	list-style-type: none;
+	float: left;
+	margin-right: 10px;
+	padding-right: 10px;
+	border-right: 2px solid orange;
+}
+#content {
+	height: 200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+#left-content {
+	width: 55%;
+	float: left;
+	border-right: 2px solid orange;
+	height: 100%;
+}
+#right-content{
+	width: 43%;
+	float: right;
+}
+#footer {
+	clear: both;
+	border-top: 2px solid orange;
+	height: 100px;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+#top4{
+	text-indent: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: green;
+}
+#canh{
+	text-align: right;
+	color: green;
+}
+#top1{
+	margin-left: 200px;
+	font-family: Arial;
+	font-size: 30px;
+	text-shadow: 4px 4px 2px;
+	color: orange;
+}
+#top2{
+	margin-left: 200px;
+	font-family: Arial;
+	font-size: 20px;
+	text-shadow: 4px 4px 2px;
+	color: green;
+}
+#mau1{
+	color: green;
+}

@@ -1,0 +1,17 @@
+#demo1{
+	width: 300px;
+	height: 500px;
+	border: 2px solid green;
+	border-radius: 20px;
+	margin-bottom: 20px;
+	background-image: linear-gradient(to bottom, #ada, yellow);
+}
+#demo2{
+	width: 200px;
+	height: 200px;
+	border: 2px solid green;
+	border-radius: 50%;
+	box-shadow: 3px 6px 3px blue;
+	background: url('kaka.jpg');
+	background-size: contain;/* dùng contain hoặc cover để chỉnh kích thước hình ảnh*/
+}

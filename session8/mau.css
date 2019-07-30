@@ -1,0 +1,43 @@
+img{
+	float: left;
+	height: 100px;
+	margin-left: 20px;
+}
+#top1{
+	margin-left: 200px;
+	font-family: Arial;
+	font-size: 30px;
+	text-shadow: 4px 4px 2px;
+	color: orange;
+}
+#top2{
+	margin-left: 200px;
+	font-family: Arial;
+	font-size: 20px;
+	text-shadow: 4px 4px 2px;
+	color: green;
+}
+#mau1{
+	color: green;
+}
+#content{
+	text-indent: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: green;
+}
+#canh{
+	text-align: right;
+	color: green;
+}
+#container{
+	margin: 0 auto;
+	width: 50%;
+	border: 2px solid green;
+	border-radius: 20px;
+	margin-bottom: 20px;
+	box-shadow: 3px 6px 3px blue;
+}
+#top3{
+	color: green;
+}
