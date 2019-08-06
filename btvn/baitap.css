@@ -1,0 +1,163 @@
+body {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+#top {
+	width: 90%;
+	height: 100px;
+	margin: auto;
+	line-height: 20px;
+}
+#top1 {
+	width: 30%;
+	float: left;
+	margin-top: 40px;
+
+}
+#top1 ul {
+	list-style-type: none;
+	margin: auto;
+	padding: 0px;
+}
+#top1 ul li {
+	display: inline;
+	padding: 5px;
+}
+#top1 ul li a {
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+}
+#top1 ul li a:hover {
+	color: red;
+}
+#top1 ul li a:hover {
+	font-size: 20px;
+}
+#top2 {
+	width: 40%;
+	margin-right: 40px;
+	float: left;	
+}
+#top2 h1 {
+	font-family: Arial;
+	text-shadow: 2px 4px 6px red;
+	margin-bottom: 10px;
+	text-align: center;
+}
+#top2 {
+	margin-top: 0px;
+	text-align: center;
+}
+#top3 {
+	width: 15%;
+	margin-top: 40px;
+	float: right;
+}
+#top3 button img {
+	width: 20px;
+	height: 20px;
+}
+#top3 input {
+	width: 45px;
+}
+
+header {
+	width: 90%;
+	margin: auto;	
+}
+#cam {
+	width: 100%;
+	text-align: center;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+#cam img {
+	width: 100%;
+	height: 200px;
+}
+
+#cam1 {
+	width: 25%;
+	height: 100px;
+	border-bottom: 2px solid #D1DED0;
+	padding-bottom: 20px;
+	float: left;
+}
+
+#cam2 {
+	width: 50px;
+	margin-top: 30px;
+	margin-right: 10px;
+	float: left;
+}
+#cam3 {
+	width: 200px;
+	float: left;
+}
+#cam3 h3 {
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+}
+#cam3 p {
+	margin-top: 5px;
+	padding-top: 5px;
+}
+#section-cam {
+	margin-top: 200px;
+	text-align: center;
+}
+#section-cam div h1 {
+	font-family: Arial;
+}
+#section-cam div h1 span {
+	font-family: Arial;
+}
+section {
+	width: 90%;
+	margin: auto;
+}
+
+#section-cam1 {
+	text-align: center;
+	height: 300px;
+}
+#section-cam2 {
+	width: 17%;
+	height: 300px;
+	float: left;
+	margin: 15px;
+	text-align: center;
+	border: 1px solid grey;
+}
+#section-cam2 ul li {
+	margin: 20px;
+	display: inline;
+}
+#section-cam3 {
+	height: 50px;
+	margin: 40px;
+}
+#section-cam3 p {
+	text-align: center;
+	margin: 40px;
+}
+footer .footer-cam1 {
+	width: 90%;
+	height: 600px;
+	background-color: #EFFBF5;
+	margin: auto;
+}
+#footer-cam2 {
+	width: 300px;
+	margin: auto;
+	padding-top: 40px;
+	text-align: center;
+
+}
+#footer-cam3 {
+	width: 200px;
+	height: 30px;
+	margin: auto;
+}
