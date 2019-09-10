@@ -1,0 +1,21 @@
+
+#menu{
+	width: 1000px; 
+	border: 1px solid black;
+	height: 700px;
+	margin: 40px;
+}
+#logo{
+	float: left;
+	margin: 20px;
+	width: 300px;
+	
+}
+#logo1{
+	border: 1px solid black;
+}
+#register{
+	margin: 20px;
+ 	float: left;
+ 	width: 700;
+}

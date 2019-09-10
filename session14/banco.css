@@ -1,0 +1,14 @@
+.box_black{
+	width: 50px;
+	height: 50px;
+	background-color: #fff;
+	border: 1px;
+	float: left;
+}
+.box_while{
+	width: 50px;
+	height: 50px;
+	background-color: #000;
+	border: 1px;
+	float: left;
+}
