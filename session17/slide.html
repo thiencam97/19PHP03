@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>slide</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/slide.css">
+</head>
+<body>
+
+		<!-- Slideshow container -->
+	<div id="slideshow-container">
+
+	  <!-- Full-width images with number and caption text -->
+		  <div id="mySlides fade">
+		    <div id="numbertext">1 / 3</div>
+		    <img src="img/messi.jpg" style="width:100%">
+		    <div id="text">messi</div>
+		  </div>
+
+		  <div id="mySlides fade">
+		    <div id="numbertext">2 / 3</div>
+		    <img src="img/kaka.jpg" style="width:100%">
+		    <div id="text">kaka</div>
+		  </div>
+
+		  <div id="mySlides fade">
+		    <div id="numbertext">3 / 3</div>
+		    <img src="img/ronaldo.jpg" style="width:100%">
+		    <div id="text">ronaldo</div>
+		  </div>
+
+	  <!-- Next and previous buttons -->
+		  <a id="prev" onclick="plusSlides(-1)">&#10094;</a>
+		  <a id="next" onclick="plusSlides(1)">&#10095;</a>
+	</div>
+	<br>
+
+	<!-- The dots/circles -->
+	<div style="text-align:center">
+	  <span id="dot" onclick="currentSlide(1)"></span> 
+	  <span id="dot" onclick="currentSlide(2)"></span> 
+	  <span id="dot" onclick="currentSlide(3)"></span> 
+	</div>
+
+
+	<script src="js/slide.js"></script>
+
+</body>
+</html>

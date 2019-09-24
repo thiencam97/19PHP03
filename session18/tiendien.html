@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tinh tien dien - Session 18</title>
+	<link rel="stylesheet" href="css/tiendien.css">
+</head>
+<body>
+	<h1>Phieu tinh tien dien</h1>
+	<form name="tienDien" action="#" class="form-tiendien">
+		<div class="input-control">
+			<div class="text">
+				Ho va ten
+			</div>
+			<div class="input">
+				<input type="text" name="name" id="name">
+				<span class="error" id="errorName"></span>
+			</div>
+		</div>
+		<div class="input-control">
+			<div class="text">
+				So dien dau ky
+			</div>
+			<div class="input">
+				<input type="text" name="first_number" id="first_number">
+				<span class="error" id="errorFirstNumber"></span>
+			</div>
+		</div>
+		<div class="input-control">
+			<div class="text">
+				So dien cuoi ky
+			</div>
+			<div class="input">
+				<input type="text" name="last_number" id="last_number">
+				<span class="error" id="errorLastNumber"></span>
+			</div>
+		</div>
+		<div class="input-control">
+			<div class="text">
+				Ngay dau ky
+			</div>
+			<div class="input">
+				<input type="date" name="first_day" id="first_day">
+				<span class="error" id="errorFirstDay"></span>
+			</div>
+		</div>
+		<div class="input-control">
+			<div class="text">
+				Ngay cuoi ky
+			</div>
+			<div class="input">
+				<input type="date" name="last_day" id="last_day">
+				<span class="error" id="errorLastDay"></span>
+			</div>
+		</div>
+		<div class="input-control">
+			<input type="button" name="tinhtiendien" value="Tinh tien dien" onclick="tinhTienDien()">
+		</div>
+		<p id="printContent"></p>
+	</form>
+	<script src="js/tiendien.js"></script>
+</body>
+</html>

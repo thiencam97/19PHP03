@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>dang ky - session 18</title>
+	<link rel="stylesheet" type="text/css" href="css/dangky.css">
+	<meta charset="utf-8">
+</head>
+<body>
+	<h1 style="color: green;">FORM DANG KY</h1>
+	<div id="body">
+		<p>
+			<p id="hoTen"></p>
+			<label>Ho Ten: </label>
+			<input type="text" name="ten" id="ten">
+		</p>
+
+		<p>
+			<p id="GioiTinh"></p>
+			<label>Gioi Tinh: </label>
+			<label class="nam">Nam </label>
+			<input type="radio" name="gioitinh" value="Nam"><br>
+			<label class="nu">Nu </label>
+			<input type="radio" name="gioitinh" value="Nu">
+			<p>Khác</p>
+		</p>
+
+		<p>
+			<p id="NgaySinh"></p>
+			<label>Ngay Sinh: </label>
+			<input type="date" name="ngaySinh" id="ngaySinh">
+		</p>
+
+		<p>
+			<p id="TinhThanh"></p>
+			<label>Tinh Thanh: </label>
+			<select id="tinhThanh">
+				<option value=""></option>
+				<option value="quangNam">Quang binh</option>
+				<option value="daNang">Da Nang</option>
+			</select>
+		</p>
+
+		<p>
+			<input type="button" name="dangky" id="dangky" value="Dang Ky" onclick="dangKy()">
+		</p>
+	</div>
+	
+	<script src="js/dangky.js"></script>
+
+</body>
+</html>
