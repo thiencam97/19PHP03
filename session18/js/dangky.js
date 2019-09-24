@@ -27,14 +27,5 @@ function dangKy() {
 		}else {
 			document.getElementById('errorTinhThanh').innerHTML = '';
 		}
-		KTGioiTinh(gioiTinhs) {
-			for(var i =0; i < gioiTinhs.length; i ++) {
-				if (gioiTinhs[i].checked === true) {
-					gioiTinh = gioiTinhs[i].value;
-					break;
-					}
-				}
-			return gioiTinh;
-		}
 
 }
